@@ -9,6 +9,8 @@ Hangman Game
 * A simple and fun filled game
 * Guess the correct word to prevent hanging
 * Once you have not answered correctly,then the right answer will be displayed
+* supports keyboard and mouse input
+* Press Enter key or hit refresh button to start the game from the beginning
 
 
 ## 🚀 About Me
